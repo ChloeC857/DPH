@@ -1,5 +1,5 @@
 # DPH
-This project is for a course named Machine Learning which asks us to realize a method to optimize image search in unbalanced datasets ["Deep Priority Hashing"](https://github.com/thuml/DPH).
+This project is an assignment for the Machine Learning course, where we have implemented an algorithm that optimizes image search in unbalanced datasets ["Deep Priority Hashing"](https://github.com/thuml/DPH).
 
 ## Prerequisites
 Python3
