@@ -23,3 +23,6 @@ You can also use more txt file to train model or evaluate it. You can replace th
 ```
 <image path> <100 categorities labels>
 ```
+
+## Model File
+We apologize that the model file exceeds 100MB, making it difficult to commit to this repository. If you wish to view the model file, please contact us directly.
